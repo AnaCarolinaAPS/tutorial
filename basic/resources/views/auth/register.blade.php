@@ -1,4 +1,7 @@
 @extends('auth.auth_master')
+@section('title')
+<title>Register | Admin</title>
+@endsection
 @section('content')
     
 <h4 class="text-muted text-center font-size-18"><b>Register</b></h4>
